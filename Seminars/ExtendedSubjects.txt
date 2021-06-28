@@ -1,0 +1,95 @@
+Advanced programming methods
+
+1. Algebraic data types (ADTs).
+ * One way of describing composite types is by classifying them in variants and
+   records.
+   + Connection to logics (variants as disjunction, records as conjunction).
+   + Connection to algebra
+     An algebra of types:
+     - variants as sums
+     - records as products
+     - functions as exponentiation
+     - Advanced programming technique [1]:
+       You can write 4 as: 1 + 1 + 1 + 1, 2 * 2, or 2 ^ 2 (isomorphic examples, what is an isomorphism?)
+       What is the most effcient representation?
+       In depth: https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types
+   + Representing ADTs in OOP languages (Java and Scala)
+   + Generic programming:
+     - Idea: Have a universal way of representing ADTs (using generic variants and records)
+       and define a isomorphism between any data type and this representation.
+     - Result: You can write structural algoritms over the representation that apply
+       to *any* data type, 'automatically' deriving functionality for *any* such data type.
+     - Sometimes called structural polymorphism.
+     - In depth: https://www.stackbuilders.com/tutorials/haskell/generics/
+       Note: This can be presented in a very simplified way using Java code.
+
+2. Clean code / refactoring
+ * Basic principle: Ask yourself: What am I giving up by refactoring this code?
+   + Almost always, the answer is simplicity. But go into details, why is it more
+     complex? Convince yourself you deeply understand the compromise.
+ * Basic principle: Write less code.
+   + The *only* proven corellation with the number of bugs.
+   + Refactoring syntactic patterns can get you very far.
+   + Refactoring algorithmic patterns is more difficult (algebra may be required,
+     example: callback hell and async/await, connection with monads).
+ * SOLID principles
+ * Traits, multiple inheritance
+   + In Java, you have the adapter pattern (caveat: not checked at compile time)
+   + In Scala and Haskell you have type classes.
+   + The expression problem:
+     - Refactoring: The tyranny of the dominant decomposition.
+       Related (compares type classes to inheritance limitations):
+         http://www.cse.chalmers.se/edu/year/2015/course/DIT950/papers/typeclasses.pdf
+ * Testing
+   + Defining a testing model:
+     - The model *should* be much simpler than the application.
+     - Considerations you must make when defining a model.
+     - Test specification (needs a domain language)
+   + A spectrum of assurance:
+     - Unit testing
+     - Integration/functional testing
+     - Property based testing
+     - Formal arguments
+   + TDD
+     - Important question: What is the "unit" in Unit testing?
+       Read: TDD by Kent Beck (or listen to the talk)
+     - Red, Green, Refactor
+     - Tests first (or, rather, specification first)
+     - The way the brain works (use TDD for motivation, also the reason why TDD
+       "failed")
+     - Case study: TDD, Where Did It All Go Wrong
+       Talk: https://www.youtube.com/watch?v=EZ05e7EMOLM
+     - What is behaviour driven development and why did it come up?
+     - Discussing mocks.
+
+3. Functional programming
+ * Immutability
+   + Persistent collections
+     - Why they often perform better than mutable collections (or about defensive
+       copying).
+     - Theoretical performance characteristics and practical optimisations.
+   + Threading
+     - Important reading: Java Concurrency in Practice (first section)
+     - Modern techniques and languages for dealing with mutability and threading:
+       + Haskell: Provably secure (by the type system) mutable state
+       + Haskell, Clojure: Atomic updates (synchronized), STM
+       + Rust: Linear logics, borrows checker.
+       + Erlang, Scala: actor model (is also what Alan Key meant by OOP).
+       + Streams.
+ * Effects
+   + Refactoring pattern: Code structured as a chrismass tree usually means you have
+     a monadic structure in hiding (example of algorithmic pattern)
+   + It is easy to define a monad that shows this refactoring pattern without going
+     into scarry details (example: CPS, javascript callback hell)
+ * Types
+   + Propositions as types
+     Talk: https://www.youtube.com/watch?v=IOiZatlZtGU
+   + Tracking effects using the type system
+     - What is the type of a monad?
+     - Languages: Haskell, Scala.
+
+4. Domain specific languages
+   TODO
+
+5. Motivation
+   TODO

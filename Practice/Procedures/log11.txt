@@ -1,0 +1,5696 @@
+ProgramState with id:1
+ExecutionStack: {(int v;(int w;(v = 2;(w = 5;(Model.Statements.CallProcStatement@481457a9;(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e)))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(Model.Statements.CallProcStatement@481457a9;(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(Model.Statements.CallProcStatement@481457a9;(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(Model.Statements.CallProcStatement@481457a9;(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(Model.Statements.CallProcStatement@481457a9;(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(Model.Statements.CallProcStatement@481457a9;(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e)))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(Model.Statements.CallProcStatement@481457a9;(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e)))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(Model.Statements.CallProcStatement@481457a9;(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e)))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(Model.Statements.CallProcStatement@481457a9;(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e)))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(Model.Statements.CallProcStatement@481457a9;(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(Model.Statements.CallProcStatement@481457a9;(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(Model.Statements.CallProcStatement@481457a9;(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(Model.Statements.CallProcStatement@481457a9;(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(Model.Statements.CallProcStatement@481457a9;(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e)))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(Model.Statements.CallProcStatement@481457a9;(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e)))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(Model.Statements.CallProcStatement@481457a9;(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e)))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(Model.Statements.CallProcStatement@481457a9;(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e)))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.CallProcStatement@481457a9|(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.CallProcStatement@481457a9|(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e)))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e)))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e)))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e)))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(Model.Statements.CallProcStatement@10519eb7;fork(Model.Statements.CallProcStatement@3cec1d0e))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {Model.Statements.CallProcStatement@10519eb7|fork(Model.Statements.CallProcStatement@3cec1d0e)|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {Model.Statements.CallProcStatement@10519eb7|fork(Model.Statements.CallProcStatement@3cec1d0e)|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {fork(Model.Statements.CallProcStatement@3cec1d0e)|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {fork(Model.Statements.CallProcStatement@3cec1d0e)|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {Model.Statements.CallProcStatement@3cec1d0e|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {Model.Statements.CallProcStatement@3cec1d0e|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(call prod[v, w];fork(call sum[v, w]))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(call prod[v, w];fork(call sum[v, w]))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {call prod[v, w]|fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {call prod[v, w]|fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(call prod[v, w];fork(call sum[v, w]))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(call prod[v, w];fork(call sum[v, w]))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {call prod[v, w]|fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {call prod[v, w]|fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(v = a*b;print(v))|Model.Statements.ReturnStatement@2a2b95a|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(v = a*b;print(v))|Model.Statements.ReturnStatement@2a2b95a|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {v = a*b|print(v)|Model.Statements.ReturnStatement@2a2b95a|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {v = a*b|print(v)|Model.Statements.ReturnStatement@2a2b95a|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@2a2b95a|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@2a2b95a|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {Model.Statements.ReturnStatement@2a2b95a|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {Model.Statements.ReturnStatement@2a2b95a|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {call sum[v, w]|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {call sum[v, w]|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@5e327d26|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@5e327d26|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@5e327d26|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@5e327d26|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@5e327d26|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@5e327d26|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {Model.Statements.ReturnStatement@5e327d26|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {Model.Statements.ReturnStatement@5e327d26|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@1e09f017|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@1e09f017|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@1e09f017|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@1e09f017|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@1e09f017|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(call prod[v, w];fork(call sum[v, w]))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(call prod[v, w];fork(call sum[v, w]))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {call prod[v, w]|fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {call prod[v, w]|fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(int v;(v = a*b;print(v)))|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(int v;(v = a*b;print(v)))|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {int v|(v = a*b;print(v))|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {int v|(v = a*b;print(v))|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(v = a*b;print(v))|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(v = a*b;print(v))|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {v = a*b|print(v)|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {v = a*b|print(v)|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {call sum[v, w]|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@435d8a75|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@435d8a75|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@435d8a75|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@435d8a75|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@435d8a75|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@435d8a75|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@435d8a75|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@435d8a75|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@435d8a75|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@435d8a75|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.ReturnStatement@435d8a75|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.ReturnStatement@435d8a75|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(call prod[v, w];fork(call sum[v, w]))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.ReturnStatement@7084cc25|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(call prod[v, w];fork(call sum[v, w]))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(call prod[v, w];fork(call sum[v, w]))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {call prod[v, w]|fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {call prod[v, w]|fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(int v;(v = a*b;print(v)))|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(int v;(v = a*b;print(v)))|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {int v|(v = a*b;print(v))|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {int v|(v = a*b;print(v))|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(v = a*b;print(v))|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(v = a*b;print(v))|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {v = a*b|print(v)|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {v = a*b|print(v)|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {Model.Statements.ReturnStatement@5edd07b9|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {call sum[v, w]|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {call sum[v, w]|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@21d5653f|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@21d5653f|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@21d5653f|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@21d5653f|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@21d5653f|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@21d5653f|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@21d5653f|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@21d5653f|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@21d5653f|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@21d5653f|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {Model.Statements.ReturnStatement@21d5653f|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {Model.Statements.ReturnStatement@21d5653f|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(call prod[v, w];fork(call sum[v, w]))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(call prod[v, w];fork(call sum[v, w]))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {call prod[v, w]|fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {call prod[v, w]|fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(int v;(v = a*b;print(v)))|Model.Statements.ReturnStatement@37d962a|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.ReturnStatement@149b62d|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(call prod[v, w];fork(call sum[v, w]))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(call prod[v, w];fork(call sum[v, w]))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {call prod[v, w]|fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {2|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@57faa7c5|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@57faa7c5|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@57faa7c5|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@57faa7c5|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@57faa7c5|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@57faa7c5|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@57faa7c5|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@57faa7c5|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@57faa7c5|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@568ecd1f|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@568ecd1f|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@568ecd1f|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@568ecd1f|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@568ecd1f|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@568ecd1f|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@568ecd1f|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@568ecd1f|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@568ecd1f|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(int a;(int b;(v = a+b;print(v)))))|Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(int a;(int b;(v = a+b;print(v)))))|Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int a;(int b;(v = a+b;print(v))))|Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int a;(int b;(v = a+b;print(v))))|Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int a;(int b;(v = a+b;print(v))))|Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int a;(int b;(v = a+b;print(v))))|Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int a|(int b;(v = a+b;print(v)))|Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int a|(int b;(v = a+b;print(v)))|Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int b;(v = a+b;print(v)))|Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(a->0), (v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int b;(v = a+b;print(v)))|Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(a->0), (v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int b|(v = a+b;print(v))|Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(a->0), (v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int b|(v = a+b;print(v))|Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(a->0), (v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(a->0), (b->0), (v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(a->0), (b->0), (v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(a->0), (b->0), (v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(a->0), (b->0), (v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.ReturnStatement@3d9ea130|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {}
+SymbolTable: {(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(call prod[v, w];fork(call sum[v, w]))|}
+SymbolTable: {(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(call prod[v, w];fork(call sum[v, w]))|}
+SymbolTable: {(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {call prod[v, w]|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {call prod[v, w]|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(int v;(int a;(int b;(v = a*b;print(v)))))|Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(int v;(int a;(int b;(v = a*b;print(v)))))|Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {int v|(int a;(int b;(v = a*b;print(v))))|Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {int v|(int a;(int b;(v = a*b;print(v))))|Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(int a;(int b;(v = a*b;print(v))))|Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(int a;(int b;(v = a*b;print(v))))|Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {int a|(int b;(v = a*b;print(v)))|Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {int a|(int b;(v = a*b;print(v)))|Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(int b;(v = a*b;print(v)))|Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(int b;(v = a*b;print(v)))|Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {int b|(v = a*b;print(v))|Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {int b|(v = a*b;print(v))|Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(v = a*b;print(v))|Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(v = a*b;print(v))|Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {v = a*b|print(v)|Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {v = a*b|print(v)|Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {Model.Statements.ReturnStatement@3051e481|fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {fork(call sum[v, w])|}
+SymbolTable: {(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {}
+SymbolTable: {(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {call sum[v, w]|}
+SymbolTable: {(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {call sum[v, w]|}
+SymbolTable: {(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(int v;(int a;(int b;(v = a+b;print(v)))))|Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(int v;(int a;(int b;(v = a+b;print(v)))))|Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {int v|(int a;(int b;(v = a+b;print(v))))|Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {int v|(int a;(int b;(v = a+b;print(v))))|Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(int a;(int b;(v = a+b;print(v))))|Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(int a;(int b;(v = a+b;print(v))))|Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {int a|(int b;(v = a+b;print(v)))|Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {int a|(int b;(v = a+b;print(v)))|Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(int b;(v = a+b;print(v)))|Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(int b;(v = a+b;print(v)))|Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {int b|(v = a+b;print(v))|Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {int b|(v = a+b;print(v))|Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {Model.Statements.ReturnStatement@65adbf03|}
+SymbolTable: {(a->0), (b->5)|(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {}
+SymbolTable: {(a->0), (b->0), (v->0), (w->5)|}
+Output: {0|0|0|0|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5), (v->25)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5), (v->25)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5), (v->25)|(v->2), (w->5)|}
+Output: {25|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.ReturnStatement@69d06277|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5), (v->25)|(v->2), (w->5)|}
+Output: {25|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(call prod[v, w];fork(call sum[v, w]))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(call prod[v, w];fork(call sum[v, w]))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {call prod[v, w]|fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {call prod[v, w]|fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(int v;(v = a*b;print(v)))|Model.Statements.ReturnStatement@29f899f6|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(int v;(v = a*b;print(v)))|Model.Statements.ReturnStatement@29f899f6|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {int v|(v = a*b;print(v))|Model.Statements.ReturnStatement@29f899f6|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {int v|(v = a*b;print(v))|Model.Statements.ReturnStatement@29f899f6|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(v = a*b;print(v))|Model.Statements.ReturnStatement@29f899f6|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(v = a*b;print(v))|Model.Statements.ReturnStatement@29f899f6|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {v = a*b|print(v)|Model.Statements.ReturnStatement@29f899f6|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {v = a*b|print(v)|Model.Statements.ReturnStatement@29f899f6|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@29f899f6|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5), (v->10)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@29f899f6|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5), (v->10)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {Model.Statements.ReturnStatement@29f899f6|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5), (v->10)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {Model.Statements.ReturnStatement@29f899f6|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5), (v->10)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {call sum[v, w]|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {call sum[v, w]|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@274e3159|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@274e3159|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@274e3159|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@274e3159|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@274e3159|}
+SymbolTable: {(a->2), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@274e3159|}
+SymbolTable: {(a->2), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@274e3159|}
+SymbolTable: {(a->2), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@274e3159|}
+SymbolTable: {(a->2), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@274e3159|}
+SymbolTable: {(a->2), (b->5), (v->7)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@274e3159|}
+SymbolTable: {(a->2), (b->5), (v->7)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {Model.Statements.ReturnStatement@274e3159|}
+SymbolTable: {(a->2), (b->5), (v->7)|(v->2), (w->5)|}
+Output: {25|2|10|7|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {Model.Statements.ReturnStatement@274e3159|}
+SymbolTable: {(a->2), (b->5), (v->7)|(v->2), (w->5)|}
+Output: {25|2|10|7|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|10|7|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int w;(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int w|(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 2;(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = 2|(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->0), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(w = 5;(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w]))))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {w = 5|(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->0)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(call sum[v*10, w];(print(v);fork((call prod[v, w];fork(call sum[v, w])))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {call sum[v*10, w]|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@2ca04ca7|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@2ca04ca7|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@2ca04ca7|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@2ca04ca7|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@2ca04ca7|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@2ca04ca7|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@2ca04ca7|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@2ca04ca7|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@2ca04ca7|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5), (v->25)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@2ca04ca7|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5), (v->25)|(v->2), (w->5)|}
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.ReturnStatement@2ca04ca7|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5), (v->25)|(v->2), (w->5)|}
+Output: {25|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Model.Statements.ReturnStatement@2ca04ca7|(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(a->20), (b->5), (v->25)|(v->2), (w->5)|}
+Output: {25|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(v);fork((call prod[v, w];fork(call sum[v, w]))))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(v)|fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {fork((call prod[v, w];fork(call sum[v, w])))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(call prod[v, w];fork(call sum[v, w]))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(call prod[v, w];fork(call sum[v, w]))|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {call prod[v, w]|fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {call prod[v, w]|fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(int v;(v = a*b;print(v)))|Model.Statements.ReturnStatement@b025848|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(int v;(v = a*b;print(v)))|Model.Statements.ReturnStatement@b025848|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {int v|(v = a*b;print(v))|Model.Statements.ReturnStatement@b025848|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {int v|(v = a*b;print(v))|Model.Statements.ReturnStatement@b025848|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(v = a*b;print(v))|Model.Statements.ReturnStatement@b025848|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {(v = a*b;print(v))|Model.Statements.ReturnStatement@b025848|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {v = a*b|print(v)|Model.Statements.ReturnStatement@b025848|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {v = a*b|print(v)|Model.Statements.ReturnStatement@b025848|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@b025848|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5), (v->10)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@b025848|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5), (v->10)|(v->2), (w->5)|}
+Output: {25|2|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {Model.Statements.ReturnStatement@b025848|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5), (v->10)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {Model.Statements.ReturnStatement@b025848|fork(call sum[v, w])|}
+SymbolTable: {(a->2), (b->5), (v->10)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {fork(call sum[v, w])|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:10
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {call sum[v, w]|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {call sum[v, w]|}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@4176bdf9|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(int v;(v = a+b;print(v)))|Model.Statements.ReturnStatement@4176bdf9|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@4176bdf9|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {int v|(v = a+b;print(v))|Model.Statements.ReturnStatement@4176bdf9|}
+SymbolTable: {(a->2), (b->5)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@4176bdf9|}
+SymbolTable: {(a->2), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {(v = a+b;print(v))|Model.Statements.ReturnStatement@4176bdf9|}
+SymbolTable: {(a->2), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@4176bdf9|}
+SymbolTable: {(a->2), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {v = a+b|print(v)|Model.Statements.ReturnStatement@4176bdf9|}
+SymbolTable: {(a->2), (b->5), (v->0)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@4176bdf9|}
+SymbolTable: {(a->2), (b->5), (v->7)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {print(v)|Model.Statements.ReturnStatement@4176bdf9|}
+SymbolTable: {(a->2), (b->5), (v->7)|(v->2), (w->5)|}
+Output: {25|2|10|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {Model.Statements.ReturnStatement@4176bdf9|}
+SymbolTable: {(a->2), (b->5), (v->7)|(v->2), (w->5)|}
+Output: {25|2|10|7|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {Model.Statements.ReturnStatement@4176bdf9|}
+SymbolTable: {(a->2), (b->5), (v->7)|(v->2), (w->5)|}
+Output: {25|2|10|7|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:100
+ExecutionStack: {}
+SymbolTable: {(v->2), (w->5)|}
+Output: {25|2|10|7|}
+File table: 
+Heap: {}
+
+

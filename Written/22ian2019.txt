@@ -1,0 +1,14 @@
+1) checked vs unchecked Exceptions
+
+ Checked: are the exceptions that are checked at compile time. 
+If some code within a method throws a checked exception, 
+then the method must either handle the exception or it must specify the exception using throws keyword.
+
+ Unchecked are the exceptions that are not checked at compiled time.
+In Java exceptions under Error and RuntimeException classes are unchecked exceptions, everything else under throwable is checked.
+
+Cyclic Barrier
+
+It is a barrier that all threads must wait at, until
+all threads reach it, before any of the threads
+can continue.

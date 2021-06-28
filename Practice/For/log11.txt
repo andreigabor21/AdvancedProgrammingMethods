@@ -1,0 +1,2200 @@
+ProgramState with id:1
+ExecutionStack: {(Ref(int )a;(new(a,20);(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Ref(int )a|(new(a,20);(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Ref(int )a|(new(a,20);(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(new(a,20);(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(new(a,20);(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {new(a,20)|(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {new(a,20)|(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 0;((while(v<3)fork((print(v);v = v*ReadHeap(a))));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 0;((while(v<3)fork((print(v);v = v*ReadHeap(a))));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = 0|((while(v<3)fork((print(v);v = v*ReadHeap(a))));v = v+1)|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = 0|((while(v<3)fork((print(v);v = v*ReadHeap(a))));v = v+1)|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {((while(v<3)fork((print(v);v = v*ReadHeap(a))));v = v+1)|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {((while(v<3)fork((print(v);v = v*ReadHeap(a))));v = v+1)|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)fork((print(v);v = v*ReadHeap(a))))|v = v+1|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)fork((print(v);v = v*ReadHeap(a))))|v = v+1|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {}
+SymbolTable: (a->(1,int ))
+Output: {20|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(Ref(int )a;(new(a,20);(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Ref(int )a|(new(a,20);(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Ref(int )a|(new(a,20);(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(new(a,20);(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(new(a,20);(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {new(a,20)|(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {new(a,20)|(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 0;((while(v<3)fork((print(v);v = v*ReadHeap(a))));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 0;((while(v<3)fork((print(v);v = v*ReadHeap(a))));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = 0|((while(v<3)fork((print(v);v = v*ReadHeap(a))));v = v+1)|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = 0|((while(v<3)fork((print(v);v = v*ReadHeap(a))));v = v+1)|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {((while(v<3)fork((print(v);v = v*ReadHeap(a))));v = v+1)|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {((while(v<3)fork((print(v);v = v*ReadHeap(a))));v = v+1)|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)fork((print(v);v = v*ReadHeap(a))))|v = v+1|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)fork((print(v);v = v*ReadHeap(a))))|v = v+1|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {}
+SymbolTable: (a->(1,int ))
+Output: {20|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(Ref(int )a;(new(a,20);(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Ref(int )a|(new(a,20);(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Ref(int )a|(new(a,20);(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(new(a,20);(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(new(a,20);(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {new(a,20)|(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {new(a,20)|(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 0;(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1)))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 0;(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1)))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = 0|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = 0|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {print(ReadHeap(a))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {}
+SymbolTable: (a->(1,int ))
+Output: {20|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(Ref(int )a;(new(a,20);(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Ref(int )a|(new(a,20);(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Ref(int )a|(new(a,20);(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(new(a,20);(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(new(a,20);(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {new(a,20)|(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {new(a,20)|(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 0;(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1)))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 0;(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1)))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = 0|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = 0|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(fork((print(v);v = v*ReadHeap(a)));v = v+1)|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(fork((print(v);v = v*ReadHeap(a)));v = v+1)|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {fork((print(v);v = v*ReadHeap(a)))|v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {fork((print(v);v = v*ReadHeap(a)))|v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {(print(v);v = v*ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {(print(v);v = v*ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {print(v)|v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {print(v)|v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(fork((print(v);v = v*ReadHeap(a)));v = v+1)|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(fork((print(v);v = v*ReadHeap(a)));v = v+1)|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {fork((print(v);v = v*ReadHeap(a)))|v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {fork((print(v);v = v*ReadHeap(a)))|v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {(print(v);v = v*ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {(print(v);v = v*ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {print(v)|v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {print(v)|v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(fork((print(v);v = v*ReadHeap(a)));v = v+1)|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(fork((print(v);v = v*ReadHeap(a)));v = v+1)|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {fork((print(v);v = v*ReadHeap(a)))|v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {}
+SymbolTable: (a->(1,int )), (v->20)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {fork((print(v);v = v*ReadHeap(a)))|v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {(print(v);v = v*ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {(print(v);v = v*ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->3)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {print(v)|v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->3)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {print(v)|v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->3)
+Output: {0|1|2|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|2|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->3)
+Output: {0|1|2|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|2|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {}
+SymbolTable: (a->(1,int )), (v->3)
+Output: {0|1|2|20|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {}
+SymbolTable: (a->(1,int )), (v->40)
+Output: {0|1|2|20|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(Ref(int )a;(new(a,20);(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Ref(int )a|(new(a,20);(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Ref(int )a|(new(a,20);(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(new(a,20);(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(new(a,20);(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {new(a,20)|(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {new(a,20)|(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a))))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));;print(ReadHeap(a)))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 0;(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1)))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 0;(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1)))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = 0|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = 0|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(fork((print(v);v = v*ReadHeap(a)));v = v+1)|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(fork((print(v);v = v*ReadHeap(a)));v = v+1)|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {fork((print(v);v = v*ReadHeap(a)))|v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {fork((print(v);v = v*ReadHeap(a)))|v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {(print(v);v = v*ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {(print(v);v = v*ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {print(v)|v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {print(v)|v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(fork((print(v);v = v*ReadHeap(a)));v = v+1)|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(fork((print(v);v = v*ReadHeap(a)));v = v+1)|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {fork((print(v);v = v*ReadHeap(a)))|v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {fork((print(v);v = v*ReadHeap(a)))|v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {(print(v);v = v*ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {(print(v);v = v*ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {print(v)|v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {print(v)|v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(fork((print(v);v = v*ReadHeap(a)));v = v+1)|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(fork((print(v);v = v*ReadHeap(a)));v = v+1)|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {fork((print(v);v = v*ReadHeap(a)))|v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {}
+SymbolTable: (a->(1,int )), (v->20)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {fork((print(v);v = v*ReadHeap(a)))|v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {(print(v);v = v*ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {(print(v);v = v*ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->3)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {print(v)|v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->3)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {print(v)|v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->3)
+Output: {0|1|2|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|2|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->3)
+Output: {0|1|2|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|2|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {}
+SymbolTable: (a->(1,int )), (v->3)
+Output: {0|1|2|20|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {}
+SymbolTable: (a->(1,int )), (v->40)
+Output: {0|1|2|20|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(Ref(int )a;(new(a,20);(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));print(ReadHeap(a))))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Ref(int )a|(new(a,20);(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));print(ReadHeap(a)))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {Ref(int )a|(new(a,20);(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));print(ReadHeap(a)))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(new(a,20);(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));print(ReadHeap(a)))))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(new(a,20);(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));print(ReadHeap(a)))))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {new(a,20)|(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));print(ReadHeap(a))))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {new(a,20)|(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));print(ReadHeap(a))))|}
+SymbolTable: (a->(0,int ))
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));print(ReadHeap(a))))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(int v;(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));print(ReadHeap(a))))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));print(ReadHeap(a)))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {int v|(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));print(ReadHeap(a)))|}
+SymbolTable: (a->(1,int ))
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));print(ReadHeap(a)))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)));print(ReadHeap(a)))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {for(v=0;v<3;v=v+1)fork((print(v);v = v*ReadHeap(a)))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 0;(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1)))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(v = 0;(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1)))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = 0|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = 0|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(fork((print(v);v = v*ReadHeap(a)));v = v+1)|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(fork((print(v);v = v*ReadHeap(a)));v = v+1)|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {fork((print(v);v = v*ReadHeap(a)))|v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {fork((print(v);v = v*ReadHeap(a)))|v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {(print(v);v = v*ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {(print(v);v = v*ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {print(v)|v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {print(v)|v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(fork((print(v);v = v*ReadHeap(a)));v = v+1)|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(fork((print(v);v = v*ReadHeap(a)));v = v+1)|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {fork((print(v);v = v*ReadHeap(a)))|v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:10
+ExecutionStack: {}
+SymbolTable: (a->(1,int )), (v->0)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {fork((print(v);v = v*ReadHeap(a)))|v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {(print(v);v = v*ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {(print(v);v = v*ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {print(v)|v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {print(v)|v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(fork((print(v);v = v*ReadHeap(a)));v = v+1)|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(fork((print(v);v = v*ReadHeap(a)));v = v+1)|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->1)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {fork((print(v);v = v*ReadHeap(a)))|v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:100
+ExecutionStack: {}
+SymbolTable: (a->(1,int )), (v->20)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {fork((print(v);v = v*ReadHeap(a)))|v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {(print(v);v = v*ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {v = v+1|(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {(print(v);v = v*ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->3)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {print(v)|v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {(while(v<3)(fork((print(v);v = v*ReadHeap(a)));v = v+1))|print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->3)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {print(v)|v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->3)
+Output: {0|1|2|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|2|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {print(ReadHeap(a))|}
+SymbolTable: (a->(1,int )), (v->3)
+Output: {0|1|2|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {v = v*ReadHeap(a)|}
+SymbolTable: (a->(1,int )), (v->2)
+Output: {0|1|2|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1
+ExecutionStack: {}
+SymbolTable: (a->(1,int )), (v->3)
+Output: {0|1|2|20|}
+File table: 
+Heap: {1->20, }
+
+
+ProgramState with id:1000
+ExecutionStack: {}
+SymbolTable: (a->(1,int )), (v->40)
+Output: {0|1|2|20|}
+File table: 
+Heap: {1->20, }
+
+

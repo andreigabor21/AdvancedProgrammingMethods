@@ -1,0 +1,13 @@
+Semaphore
+
+the java.util.concurrent.Semaphore class is a counting
+semaphore.
+ The counting semaphore is initialized with a given
+number of "permits".
+ For each call to acquire() a permit is taken by the calling
+thread.
+ For each call to release() a permit is returned to the
+semaphore.
+ Thus, at most N threads can pass the acquire() method
+without any release() calls, where N is the number of
+permits the semaphore was initialized with.

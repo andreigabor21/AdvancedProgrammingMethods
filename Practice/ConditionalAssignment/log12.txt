@@ -1,0 +1,240 @@
+ProgramState with id:1
+ExecutionStack: {(bool b;(int c;(b = true;(c=b?100:200;(print(c);(c=false?100:200;print(c)))))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {bool b|(int c;(b = true;(c=b?100:200;(print(c);(c=false?100:200;print(c))))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {bool b|(int c;(b = true;(c=b?100:200;(print(c);(c=false?100:200;print(c))))))|}
+SymbolTable: 
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int c;(b = true;(c=b?100:200;(print(c);(c=false?100:200;print(c))))))|}
+SymbolTable: (b->false)
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(int c;(b = true;(c=b?100:200;(print(c);(c=false?100:200;print(c))))))|}
+SymbolTable: (b->false)
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int c|(b = true;(c=b?100:200;(print(c);(c=false?100:200;print(c)))))|}
+SymbolTable: (b->false)
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {int c|(b = true;(c=b?100:200;(print(c);(c=false?100:200;print(c)))))|}
+SymbolTable: (b->false)
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(b = true;(c=b?100:200;(print(c);(c=false?100:200;print(c)))))|}
+SymbolTable: (b->false), (c->0)
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(b = true;(c=b?100:200;(print(c);(c=false?100:200;print(c)))))|}
+SymbolTable: (b->false), (c->0)
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {b = true|(c=b?100:200;(print(c);(c=false?100:200;print(c))))|}
+SymbolTable: (b->false), (c->0)
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {b = true|(c=b?100:200;(print(c);(c=false?100:200;print(c))))|}
+SymbolTable: (b->false), (c->0)
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(c=b?100:200;(print(c);(c=false?100:200;print(c))))|}
+SymbolTable: (b->true), (c->0)
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(c=b?100:200;(print(c);(c=false?100:200;print(c))))|}
+SymbolTable: (b->true), (c->0)
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {c=b?100:200|(print(c);(c=false?100:200;print(c)))|}
+SymbolTable: (b->true), (c->0)
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {c=b?100:200|(print(c);(c=false?100:200;print(c)))|}
+SymbolTable: (b->true), (c->0)
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {if b then c = 100 else c = 200|(print(c);(c=false?100:200;print(c)))|}
+SymbolTable: (b->true), (c->0)
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {if b then c = 100 else c = 200|(print(c);(c=false?100:200;print(c)))|}
+SymbolTable: (b->true), (c->0)
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(c);(c=false?100:200;print(c)))|}
+SymbolTable: (b->true), (c->100)
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(print(c);(c=false?100:200;print(c)))|}
+SymbolTable: (b->true), (c->100)
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(c)|(c=false?100:200;print(c))|}
+SymbolTable: (b->true), (c->100)
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(c)|(c=false?100:200;print(c))|}
+SymbolTable: (b->true), (c->100)
+Output: {}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(c=false?100:200;print(c))|}
+SymbolTable: (b->true), (c->100)
+Output: {100|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {(c=false?100:200;print(c))|}
+SymbolTable: (b->true), (c->100)
+Output: {100|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {c=false?100:200|print(c)|}
+SymbolTable: (b->true), (c->100)
+Output: {100|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {c=false?100:200|print(c)|}
+SymbolTable: (b->true), (c->100)
+Output: {100|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {if false then c = 100 else c = 200|print(c)|}
+SymbolTable: (b->true), (c->100)
+Output: {100|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {if false then c = 100 else c = 200|print(c)|}
+SymbolTable: (b->true), (c->100)
+Output: {100|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(c)|}
+SymbolTable: (b->true), (c->200)
+Output: {100|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {print(c)|}
+SymbolTable: (b->true), (c->200)
+Output: {100|}
+File table: 
+Heap: {}
+
+
+ProgramState with id:1
+ExecutionStack: {}
+SymbolTable: (b->true), (c->200)
+Output: {100|200|}
+File table: 
+Heap: {}
+
+

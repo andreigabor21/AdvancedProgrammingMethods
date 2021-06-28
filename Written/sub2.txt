@@ -1,0 +1,5 @@
+static vs non-static in Java
+
+A static method can call only other static methods and use only static members.Also, static methods can't be overriden.
+You can't use super and this in a static method.
+

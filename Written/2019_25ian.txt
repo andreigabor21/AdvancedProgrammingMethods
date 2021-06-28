@@ -1,0 +1,14 @@
+Overriding vs overloading
+
+Method overloading is performed within class.
+Method overriding occurs in two classes that have inheritance relationship.
+In case of method overloading, parameter must be different.
+In case of method overriding, parameter must be same.
+
+CountDown
+
+Is initialized with a given count.This count is decremented by calls to the
+countDown() method.Threads waiting for this count to reach zero
+can call one of the await() methods. Calling
+await() blocks the thread until the count
+reaches zero.

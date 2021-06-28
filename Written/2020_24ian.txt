@@ -1,0 +1,21 @@
+interfaces vs abstract classes
+
+A class can inherit only one abstract class, but can implement many interfaces.
+Abstract classes can have final, non-final, static and non-static variable. Interfaces have
+only static and final variables.
+Abstract class can provide the implementation of interface.
+Interface can't provide the implementation of abstract class.
+
+
+Atomic Variables
+
+the atomic classes make heavy use of compare-and swap
+(CAS), an atomic instruction directly supported by
+most modern CPUs.
+ Those instructions usually are much faster than
+synchronizing via locks.
+ The advice is to prefer atomic classes over locks in case
+you just have to change a single mutable variable
+concurrently.
+ Many atomic classes: AtomicBoolean, AtomicInteger,
+AtomicReference, AtomicIntegerArray, etc
